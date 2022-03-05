@@ -1,5 +1,4 @@
-<img width="60%" src="https://postfiles.pstatic.net/MjAyMjAzMDVfNzkg/MDAxNjQ2NDY0Mzc2NzIx.IhR8NYZ-MJIJmMSPbNCyf8mSX9qB9eLxMpceCyfkYYEg.lj0x2NcUbRr9TiaPUsn57EnwIuajSga4mXA3ANl5Do0g.PNG.dbfla5036/yurim.png?type=w773">
-<h4> Hi there 👋 </h4>
+<h3> Hi there 👋 </h3>
 <h4>I’m currently learning the front-end language.🏃</h4>
 
 
