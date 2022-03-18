@@ -1,6 +1,9 @@
 <h2 align="center">🔮 RYURIM 🔮</h2>
 <p align="center">Hi there 👋 <br />
-I’m currently learning the front-end language.🏃</p>
+I’m currently learning the React🏃<br />
+I'm sometime space out 😳 <br />
+It really helps when you concentrate later. 😛
+</p>
 
 
 
