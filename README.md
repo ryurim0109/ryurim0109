@@ -1,8 +1,8 @@
 <h2 align="center">🔮 RYURIM 🔮</h2>
 <p align="center">Hi there 👋 <br />
 I’m currently learning the React🏃<br />
-I'm sometime space out 😳 <br />
-It really helps when you concentrate later. 😛
+I sometimes space out. 😳 <br />
+It helps me concentrate. 😛
 </p>
 
 
