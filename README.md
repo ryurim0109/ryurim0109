@@ -13,14 +13,18 @@
 
 ### 🛠 Tech Stack 🛠 
 <p float="left">
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=FF9E0F">
-<img src="https://img.shields.io/badge/react-1496FF?style=flat-square&logo=react&logoColor=4B5E40">
+<img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=plastic&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=FF9E0F">
+<img src="https://img.shields.io/badge/react-1496FF?style=plastic&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/redux-764ABC?style=plastic&logo=redux&logoColor=EF2D5E">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=plastic&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=plastic&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=plastic&logo=styledcomponents&logoColor=white">
 </p>
 
-### ✨ About me ✨ 
+### ✨ More About me ✨ 
 <p float="left">
 <a href="https://www.instagram.com/ryu_ri_m/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ryu_ri_m/?hl=ko"/></a>
 <a href="https://ryurim.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=https://www.instagram.com/ryu_ri_m/?hl=ko"/></a>
