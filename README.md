@@ -13,16 +13,16 @@
 
 ### 🛠 Tech Stack 🛠 
 <p float="left">
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=TypeScript&logoColor=black">
-<img src="https://img.shields.io/badge/react-1496FF?style=flat&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/next-000000?style=flat&logo=Next.js&logoColor=white">
-<img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=EF2D5E">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=black"> <br/>
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Css3-1572B6?style=flat&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=TypeScript&logoColor=black">
+<img src="https://img.shields.io/badge/React-1496FF?style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=EF2D5E">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"> <br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white">
 </p>
 
 ### ✨ More About me ✨ 
