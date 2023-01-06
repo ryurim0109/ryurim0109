@@ -2,12 +2,6 @@
  
 #### TODAY 👀
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryurim0109&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  
-<p> 안녕하세요. 👋 <br />
-꾸준히 성장하고 있는 김유림입니다.<br />
-현재 리액트 공부중입니다.🏃<br />
-귀여운 것과 그림 그리는 것을 좋아합니다.👻 <br />
-</p>
 
 
 
